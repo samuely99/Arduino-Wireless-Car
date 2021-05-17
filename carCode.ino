@@ -1,4 +1,5 @@
-
+/* This is code for my blue tooth controlled arduino car
+@author Samuel Yorke*/
 //H-Bridge Inputs
 const int forwardOP = 11;
 const int backwardOP = 10;
